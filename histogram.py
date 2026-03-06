@@ -8,7 +8,7 @@ age = [1 ,3,6 ,-1,6,8]
 detail = np.array([(data),(age)])
 
 # print(detail)
-
+# Learning new concepts
 plt.hist(age , 4)
 
 plt.show()
